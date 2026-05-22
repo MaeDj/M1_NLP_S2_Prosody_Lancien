@@ -26,3 +26,5 @@ This script provided .txt output (resultThe-Very-Hungry-Caterpillar.txt) that we
 
 
 
+
+sentence 1 and 39 are not voice sentences (it's music) so no f0
